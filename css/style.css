@@ -1,0 +1,14 @@
+html{
+	overflow-y: scroll;
+}
+#load{
+	width:100%; 
+	height:100%;
+	border:none;
+	position:relative;
+}
+
+.preview{
+	min-height:600px;
+	height:100%;
+}
